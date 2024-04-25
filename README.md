@@ -1,6 +1,6 @@
 # cs350
 
-Summarize the project and what problem it was solving.
+##Summarize the project and what problem it was solving-
 The above project is an embedded system project that was created using a code composer, using a Texas instrument cc3320s embedded board. The project outlines the basic use of a thermostat. The code utilizes a state machine that allows a user to adjust the temperature. If the temperature in the room is less than the set temperature the thermostat will turn on the red light simulating that the heat has been turned on. Once the temperature of the room reaches a set temperature the light will then turn off. The system is capable of handling wifi connectivity. 
 
 What did you do particularly well?
