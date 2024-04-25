@@ -1,4 +1,4 @@
-# cs350
+# CS350 - EMBEDDED SYSTEMS OVERVIEW
 
 >Summarize the project and what problem it was solving-
 
